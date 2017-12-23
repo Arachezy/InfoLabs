@@ -2,8 +2,8 @@
 
 echo $PATH
 
-gcc ~/Labs/Lab_2/program.c
-~/Labs/Lab_2/a.out
+gcc /home/students/17200/chernyj/Labs/Lab_2/program.c
+/home/students/17200/chernyj/Labs/Lab_2/a.out
 
-export PATH=$PATH:~/Labs/Lab_2_
+export PATH=$PATH:/home/students/17200/chernyj/Labs/Lab_2/
 echo $PATH
